@@ -1,0 +1,206 @@
+@media (min-width: 300px) and (max-width: 576px) {
+  /* nav  */
+  .navbar-nav {
+    width: 100%;
+    height: 38vh;
+    background: #203239;
+    text-align: center;
+    border-radius: 3px;
+  }
+  /* .dropdown {
+    display: none;
+  }
+  .dropdown-toggle {
+    display: none;
+  } */
+  .nav-item {
+    display: block;
+    margin: 5px 0;
+    line-height: 30px;
+    color: #eeeddecb;
+  }
+  .nav-item:hover {
+    background: #eeeddecb;
+  }
+  .navbar .nav-item .nav-link {
+    font-size: 20px;
+    margin: 0 auto;
+    color: #eeeddecb;
+    padding: 15px 0;
+  }
+  .navbar .nav-item:hover .nav-link {
+    color: #203239;
+    font-weight: 600;
+  }
+  /* nav  */
+  .navbar-toggler {
+    border: 0;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+    border: 0;
+  }
+  #banner .text h2 {
+    font-size: 25px;
+    line-height: 135%;
+    width: auto;
+    text-align: center;
+  }
+  #banner .text p {
+    font-size: 14px;
+    line-height: 27px;
+    width: auto;
+    margin: 20px 0 45px;
+    text-align: center;
+    padding: 0 9px;
+  }
+  #banner .search input {
+    display: none;
+  }
+  #banner .search i {
+    display: none;
+  }
+  #banner .search .btn {
+    display: none;
+  }
+  .banner-img img {
+    bottom: 400px;
+    opacity: 0.1;
+  }
+  #banner .counter .text h2 {
+    font-size: 40px;
+  }
+  #banner .counter .text p {
+    font-size: 16px;
+    line-height: 35px;
+    width: auto;
+    padding-bottom: 35px;
+  }
+  #property {
+    padding: 50px 0px;
+  }
+  #property .title h2 {
+    font-size: 21px;
+    line-height: 144%;
+    width: auto;
+    text-align: center;
+    padding: 0 20px;
+  }
+  #property .property-list .card-1 {
+    width: auto;
+    height: 240px;
+    margin-bottom: 25px;
+  }
+  #property .property-list .card-1 p {
+    font-size: 16px;
+    line-height: 27px;
+    margin: 5px 0 20px;
+    width: auto;
+  }
+  #property {
+    padding: 0;
+  }
+  .title {
+    margin: 45px 0;
+  }
+  .title h2 {
+    font-size: 30px;
+    line-height: 75%;
+  }
+  .title h3 {
+    font-size: 16px;
+    line-height: 22px;
+    margin-bottom: 5px;
+  }
+  .positon-img {
+    display: none;
+  }
+  #Residen {
+    padding: 0 10px;
+  }
+  #Residen .text h2 {
+    font-size: 20px;
+    line-height: 143%;
+
+    width: auto;
+    margin-top: -40px;
+  }
+  #Residen .text p {
+    font-size: 16px;
+    line-height: 27px;
+
+    margin: 0px 0 30px;
+  }
+  #Residen .text .btn-3 a {
+    font-size: 16px;
+    line-height: 20px;
+    padding: 11px 6px;
+    border-radius: 10px;
+    margin-right: 2px;
+  }
+  #Residen {
+    height: 450px;
+  }
+  #R-Berbagai .cards .r-card {
+    padding-bottom: 35px;
+  }
+  #R-Berbagai .cards .r-card h2 {
+    font-size: 21px;
+    line-height: 150%;
+    margin: 10px 0 3px;
+    text-align: center;
+  }
+  #R-Berbagai .cards .r-card p {
+    font-size: 16px;
+    line-height: 25px;
+    color: #203239;
+    width: auto;
+    text-align: center;
+  }
+  .center-card {
+    text-align: center;
+  }
+  #kami {
+    padding: 25px;
+  }
+  #kami .contact h2 {
+    font-size: 28px;
+
+    margin-bottom: 40px;
+    text-align: center;
+  }
+  #kami .contact .card-3 {
+    padding: 20px;
+    border: 1px solid rgba(255, 117, 39, 0.5);
+    border-radius: 5px;
+
+    margin-bottom: 15px;
+  }
+  #kami .contact .card-3 .btn {
+    font-size: 16px;
+
+    padding: 8px 60px;
+  }
+  #kami .contact .i-text h3 {
+    margin: 0;
+  }
+  #kami .contact .i-text {
+    margin-bottom: 20px;
+  }
+  #kami .contact h2 {
+    margin: 40px 40px;
+  }
+  #footer {
+    background: #203239;
+    padding: 0 15px;
+  }
+  #footer .foot img {
+    padding: 8px 0;
+  }
+  #footer .foot i {
+    font-size: 25px;
+
+    margin-left: 30px;
+  }
+  /* end  */
+}
